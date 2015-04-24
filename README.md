@@ -26,19 +26,24 @@ be attributed to home type and points to the need for personalized
 energy management systems." </i>
 
 
-### Classification of household appliances by electricity consumption (Article 1)
+### Classification of household appliances by electricity consumption
+
+#### Article 1
 http://www.hennebert.org/download/publications/isspa-2012-machine-learning-approaches-for-electrical-appliance-classification.pdf
 <br>
 <br>
 This article proposes a machine learning classifier for identifying household appliances (e.g. whether it is a hair-dryer or a vacuum cleaner that is plugged into the outlet).
 
-### Classification of household appliances by electricity consumption (Article 2)
+### Classification of household appliances by electricity consumption
+
+#### Article 2
 Same topic as the article above. Written by 2 DTU professors (Jørgen Nørgård)
 http://www.eceee.org/library/conference_proceedings/eceee_Summer_Studies/2009/Panel_4/4.411/paper
 <br
 <br>
 
-### Classification of household appliances by electricity consumption (Article 3)
+### Classification of household appliances by electricity consumption
+#### Article 3
 Proposes an algorithm, AppliSense, for recognizing appliances.
 http://www.im.ethz.ch/publications/weiss_Percom2012.pdf
 <br>
