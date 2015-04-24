@@ -45,7 +45,7 @@ Proposes an algorithm, AppliSense, for recognizing appliances.
 http://www.im.ethz.ch/publications/weiss_Percom2012.pdf
 <br>
 <br>
-
+![](http://s1.postimg.org/4p7m2qhyn/appliance_consumption1.png)
 ### Electricity Load Forecasting
 http://infoscience.epfl.ch/record/188682/files/rlf_humeau.pdf
 Article that investigates different algorithms to predict energy usage e.g. artificial neural networks
