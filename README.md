@@ -52,6 +52,18 @@ Article that investigates different algorithms to predict energy usage e.g. arti
 <br>
 <br>
 
+### Article 4
+http://www.uea.ac.uk/~ajb/Papers/LinesIDEAL2011.pdf
+Classification of Household Devices by Electricity Usage Profiles
+
+## Classification of Private Households Using Electricity Consumption Data 
+https://www.vs.inf.ethz.ch/publ/papers/beckel-2012-classification.pdf
+
+## Electricity Consumption as a Predictor of Household Income
+http://www.academia.edu/2582294/Electricity_consumption_as_a_predictor_of_household_income_an_spatial_statistics_approach
+
+## Learning from a Learning Thermostat
+http://rayang.people.si.umich.edu/links/ubicomp2013_rayoung_yang.pdf
 ## Datasets
 
 ### UCI Dataset
