@@ -64,6 +64,12 @@ http://www.academia.edu/2582294/Electricity_consumption_as_a_predictor_of_househ
 
 ## Learning from a Learning Thermostat
 http://rayang.people.si.umich.edu/links/ubicomp2013_rayoung_yang.pdf
+
+## An Active Learning Approach to Home Heating in the Smart Grid
+
+## Adaptive Home Heating Control Through Gaussian Process Prediction and Mathematical Programming
+http://eprints.soton.ac.uk/272235/1/paper.pdf
+http://ijcai.org/papers13/Papers/IJCAI13-425.pdf
 ## Datasets
 
 ### UCI Dataset
