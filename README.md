@@ -55,23 +55,24 @@ Article that investigates different algorithms to predict energy usage e.g. arti
 ### Article 4
 http://www.uea.ac.uk/~ajb/Papers/LinesIDEAL2011.pdf
 Classification of Household Devices by Electricity Usage Profiles
-
+<br>
 ## Classification of Private Households Using Electricity Consumption Data 
 https://www.vs.inf.ethz.ch/publ/papers/beckel-2012-classification.pdf
-
+<br>
 ## Electricity Consumption as a Predictor of Household Income
 http://www.academia.edu/2582294/Electricity_consumption_as_a_predictor_of_household_income_an_spatial_statistics_approach
-
+<br>
 ## Learning from a Learning Thermostat
 http://rayang.people.si.umich.edu/links/ubicomp2013_rayoung_yang.pdf
-
+<br>
 ## An Active Learning Approach to Home Heating in the Smart Grid
-
-## Adaptive Home Heating Control Through Gaussian Process Prediction and Mathematical Programming
 http://eprints.soton.ac.uk/272235/1/paper.pdf
+<br>
+## Adaptive Home Heating Control Through Gaussian Process Prediction and Mathematical Programming
 http://ijcai.org/papers13/Papers/IJCAI13-425.pdf
+<br>
 ## Datasets
-
+<br>
 ### UCI Dataset
 Dataset on energy consumption.
 https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption#
